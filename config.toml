@@ -1,6 +1,6 @@
 baseURL = "https://sahabatkuliner.web.app/"
 languageCode = "en-us"
-title = "Best Recipes"
+title = "Sahabat Kuliner"
 theme = "big"
 
 [taxonomies]
